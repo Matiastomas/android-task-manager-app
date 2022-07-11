@@ -1,13 +1,8 @@
 <?php
-//Save android client data into the databases
-//Post Methods
 
 /* 
 
-Save tasks from android client to the database 
-
-1. Get Task Name 
-2. Save task info into database task table
+Save task value/name into database based on the given parameter
 
 */
 

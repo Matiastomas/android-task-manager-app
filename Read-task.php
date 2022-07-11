@@ -1,15 +1,10 @@
 <?php
-
-//Serve to do list tasks to android client  
-// Method get
-
 /* 
 
-Select tasks from the database and return to android client 
-as json, 
+Get task list  from  database and return to android client in json format, 
 
-1- Get the tasks
-2- Loop Through the tasks
+1- Get the tasks from database
+2- Loop Through the database result
 3- Store all the task in a data structure
 4- Convert the data into a json 
 

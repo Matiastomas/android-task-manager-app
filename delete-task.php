@@ -1,13 +1,8 @@
 <?php
 
-//Delete tasks from database based on parameter received from android client  
-// Method Posts
 
-/* 
-
-1- Get Parameter
-2- Delete task from database based on the received parameter
-s
+/*
+Delete task from database based on the received parameters received from android client
 */
 
 include "database-settings/database-connection.php";
